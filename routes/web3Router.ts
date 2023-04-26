@@ -1,5 +1,5 @@
 import express from "express";
-import { web3Test } from "../controllers/web3Controller";
+import { web3Test } from "../controllers/web3Controller.js";
 
 const web3Router = express.Router();
   
